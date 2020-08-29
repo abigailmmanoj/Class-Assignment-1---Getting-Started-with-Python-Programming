@@ -1,0 +1,44 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled18.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyPjBBFcbSvoyz8TFmABf5BX",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/abigailmmanoj/Class-Assignment-1---Getting-Started-with-Python-Programming/blob/master/week1-Q5\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "cCIoCPYlPMaE",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "celsius=float(input(\"Enter temperature in celcius :\"))\n",
+        "fahrenheit = (celcius * 1.8)+32\n",
+        "print(\"The temperature in fahrenheit is:\",fahrenheit)"
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
