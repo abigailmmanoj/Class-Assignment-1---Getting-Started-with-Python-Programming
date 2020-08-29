@@ -1,0 +1,48 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled14.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyPJ/axh7LTdFpPy84qYvbdh",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/abigailmmanoj/Class-Assignment-1---Getting-Started-with-Python-Programming/blob/master/week1-Q6\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "FRQ1pKmKLZ6p",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "num = float(input(\"Enter a number:\"))\n",
+        "if num > 0:\n",
+        "   print(\"Positive number\")\n",
+        "elif num == 0:\n",
+        "  print(\"Zero\")\n",
+        "else:\n",
+        "  print(\"Negative number\")"
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
